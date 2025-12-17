@@ -74,6 +74,15 @@ This is a personal learning repository, but suggestions and improvements are alw
 ---
 
 ## 📬 Connect With Me
+### 👨‍💻 Author
+
+Bhupendra Shivhare
+
+Aspiring Data Scientist | Deep Learning Enthusiast
+
+- LinkedIn: www.linkedin.com/in/bhupendra-shivhare-a8a02a25b
+
+- 📧 Email: shivharebhupendra@gmail.com
 
 If you’re also learning Python or preparing for Data Science roles, feel free to connect!
 
